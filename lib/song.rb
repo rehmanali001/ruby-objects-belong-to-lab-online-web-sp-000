@@ -1,6 +1,5 @@
 class Song
-    attr_accessor :title, :stylesheet_link_tagrtist
-  def initialize
+    attr_accessor :title, :artist
     @title = title
   end
 end
